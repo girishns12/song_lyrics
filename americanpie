@@ -7,3 +7,17 @@ And maybe they'd be happy for a while
 This is new line from Git user 222
 
 This is new line from Git user 222
+
+git config --global core.editor "gedit"
+
+git commit filename. if you face any issues: git config user.name "Username", git config user.email "e@email.com"
+
+git commit -a
+
+git log
+
+git branch
+
+Create new branch: git branch branchname
+
+git checkout branchname
