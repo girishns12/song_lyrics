@@ -4,6 +4,7 @@ And I knew if I had my chance
 That I could make those people dance
 And maybe they'd be happy for a while
 
+<<<<<<< HEAD
 This is new line from Git user 222
 
 This is new line from Git user 222
@@ -21,3 +22,9 @@ git branch
 Create new branch: git branch branchname
 
 git checkout branchname
+=======
+But February made me shiver
+With every paper I'd deliver
+Bad news on the doorstep
+I couldn't take one more step
+>>>>>>> b4437381f9feae0d468850d44744e87b8a614bd1
